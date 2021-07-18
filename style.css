@@ -1,0 +1,29 @@
+body {
+    background-size: cover;
+}
+.heading {
+    text-align: center;
+    font-size: 23px;
+    margin: 0;
+    width: 100%;
+}
+p {
+    font-size: 14px;
+    color: black;
+}
+#object_input {
+    border: 2px solid orange;
+    width: 80%;
+    border-radius: 5px;
+    height: 30px;
+    font-size: large;
+    background-color: yellow;
+    color: red;
+}
+#status,#object_found {
+    font-size: 23px;
+}
+canvas {
+    border-radius: 20px;
+    border: 3px solid black;
+}
